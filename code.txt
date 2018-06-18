@@ -1,4 +1,6 @@
 git add ( file and folder add korar gonno)
-git commit m "messege"( commit korar gonno)
+git commit -m "messege"( commit korar gonno)
 git push -u origin master (github a file add korar gonno)
 git clone URL (github taka  file annor gonno)
+git branch ( branch chake)
+git branch name (new branch creat)

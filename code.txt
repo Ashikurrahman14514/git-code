@@ -16,5 +16,5 @@ clear (all clear)
 ls (folder all details)
 git diff ( differant)
 git diff --staged( after before)
-
+git push origin master --force (notun kore push)
 

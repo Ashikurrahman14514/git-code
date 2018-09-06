@@ -1,12 +1,17 @@
-full page add;
+banner;
 app;
 ca-app-pub-1540095617189773~8854998064
-add;
+ads;
+ca-app-pub-1540095617189773/3902064028
+
+full page ads;
+app;
+ca-app-pub-1540095617189773~8854998064
+ads;
 ca-app-pub-1540095617189773/5567888544
 
-veduo add,
+Vedio add,
 app,
-
 ca-app-pub-1540095617189773~8854998064
- add,
+ads,
 ca-app-pub-1540095617189773/4207523654
